@@ -1,2 +1,2 @@
 Exercício final.
-Alteração pela branch: master
+Teste de merge de branches.
