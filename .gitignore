@@ -1,0 +1,4 @@
+#não incluirá nos commit qualquer arquivo CSS independente da pasta.
+**/*.css
+#qualquer arquivo desta pasta e a própria pasta.
+node_modules/
